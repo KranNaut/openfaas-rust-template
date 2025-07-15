@@ -1,39 +1,9 @@
-# OpenFaaS Rust Template - Abandoned
-
-## Please don't use this software, it's very out of date.
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-_here be dragons_
-
-This was featured in a blog post I wrote: https://booyaa.wtf/2018/run-rust-in-openfaas/
+# OpenFaaS Rust Template 
 
 ## Usage
 
 ```shell
-faas-cli template pull https://github.com/booyaa/openfaas-rust-template
+faas-cli template pull https://github.com/krannaut/openfaas-rust-template
 faas-cli new trustinrust --lang rust
 ```
 
